@@ -61,6 +61,7 @@ namespace WindowsFormsAppMSFW
             this.Controls.Add(this.dataGridViewInventory);
             this.Name = "frmInventory";
             this.Text = "Inventory";
+            this.Load += new System.EventHandler(this.frmInventory_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewInventory)).EndInit();
             this.ResumeLayout(false);
 

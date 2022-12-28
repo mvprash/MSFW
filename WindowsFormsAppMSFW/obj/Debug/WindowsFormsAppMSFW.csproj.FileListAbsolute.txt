@@ -8,3 +8,13 @@ D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\bin\Debug\W
 D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\bin\Debug\WindowsFormsAppMSFW.pdb
 D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.exe
 D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.pdb
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\bin\Debug\WindowsFormsAppMSFW.exe.config
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\bin\Debug\WindowsFormsAppMSFW.exe
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\bin\Debug\WindowsFormsAppMSFW.pdb
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.csprojResolveAssemblyReference.cache
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.frmInventory.resources
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.frmInventoryAdd.resources
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.Properties.Resources.resources
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.csproj.GenerateResource.Cache
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.exe
+F:\MVP\Study\Software_MSFW\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.pdb
