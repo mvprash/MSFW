@@ -1,0 +1,10 @@
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.frmInventory.resources
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.frmInventoryAdd.resources
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.Properties.Resources.resources
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.csproj.GenerateResource.cache
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.csproj.CoreCompileInputs.cache
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\bin\Debug\WindowsFormsAppMSFW.exe.config
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\bin\Debug\WindowsFormsAppMSFW.exe
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\bin\Debug\WindowsFormsAppMSFW.pdb
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.exe
+D:\Prashanth\MyShop\Software\WindowsFormsAppMSFW\WindowsFormsAppMSFW\obj\Debug\WindowsFormsAppMSFW.pdb
